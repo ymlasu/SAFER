@@ -5,3 +5,8 @@
 Welcome to SAFER (Sub-cycle Analysis for FatiguE Reliability), version Beta 1.1 (June 2024). This software is developed by Dr. Yongming Liu and his students and is protected by copyright. For more information, please contact Dr. Yongming Liu at yongming.liu@asu.edu. Supporting documents and related publications are available upon request. 
 
 The author has conducted model verification and validation to the best of his ability. However, Dr. Liu is not responsible for any loss or damage that may result from the use of this software.
+
+# Installation
+1. Clone the repository and unzip the .zip Archive file.
+2. Run setup.exe for installing the software.
+3. Use the same setup.exe file to repair or uninstall the program.
